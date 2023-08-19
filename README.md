@@ -1,5 +1,5 @@
 # mesto-react
-# Проект: Место
+# Проект: Место (React)
 [Сайт](https://parfionalexander.github.io/mesto-react/)
 
 ## Описание
