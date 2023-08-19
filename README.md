@@ -1,6 +1,6 @@
 # mesto-react
 # Проект: Место
-[Сайт](https://parfion.github.io/mesto-react/)
+[Сайт](https://parfionalexander.github.io/mesto-react/)
 
 ## Описание
 Проект "Место" предоставляет пользователю информацию о туристическах местах России. Проект реализован при помощи CRA.
